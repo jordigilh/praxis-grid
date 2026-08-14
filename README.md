@@ -170,3 +170,5 @@ See the [development guide](docs/development.md) and
 - [Operations](docs/architecture/operations.md)
 - [Consumer config](docs/architecture/consumer-config.md)
 - [Documentation index](docs/README.md)
+
+<!-- throwaway commit: validates grid#62's triggered-integration-test.yaml resolve-source fix via a real workflow_dispatch run against this fork; safe to delete -->
